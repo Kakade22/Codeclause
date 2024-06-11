@@ -1,0 +1,12 @@
+Employee Attrition Prediction and Data Visualization
+Welcome to my internship project on Employee Attrition Prediction and Data Visualization. This project aims to predict and visualize employee attrition to identify key factors contributing to turnover and improve retention strategies. By leveraging various machine learning classifiers and data visualization techniques, we uncover insights into the factors influencing employee turnover.
+
+Project Objectives
+Visualize the distribution of employee attrition across different demographics and job roles.
+Predict employee attrition using various machine learning models.
+Evaluate model performance using confusion matrices and other metrics.
+Identify key factors contributing to employee attrition to aid in developing effective retention strategies.
+Tech Stack
+Programming Language: Python
+Libraries: pandas, scikit-learn, XGBoost, matplotlib, seaborn
+Tools: Jupyter Notebook
